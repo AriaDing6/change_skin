@@ -1,0 +1,72 @@
+@CHARSET "UTF-8";
+.skin ul {
+	padding:10px;
+	border:#eee dotted 2px;
+	border-radius:10px;
+}
+.skin ul li {
+	display:inline;
+	border:black solid 1px;
+	padding:5px;
+}
+
+#skin_0{
+background-color:grey;
+cursor:pointer;
+}
+#skin_0:hover{
+background-color:#B8AEAE;
+}
+#skin_1{
+background-color:purple;
+cursor:pointer;
+}
+#skin_1:hover{
+background-color:#BDAABD;
+}
+
+#skin_2{
+background-color:red;
+cursor:pointer;
+}
+#skin_2:hover{
+background-color:#AC8989;
+}
+#skin_3{
+background-color:blue;
+cursor:pointer;
+}
+#skin_3:hover{
+background-color:#B8B8E8;
+}
+#skin_4{
+background-color:orange;
+cursor:pointer;
+}
+#skin_4:hover{
+background-color:#F6E6C7;
+}
+#skin_5{
+background-color:green;
+cursor:pointer;
+}
+#skin_5:hover{
+backgound-color:#B4D5B4;
+}
+#div_side_0{
+float:left;
+width:100px;
+margin-right:100px;
+}
+#div_side_1{
+width:100px;
+float:left;
+}
+.skin_title{
+background-color:yellow;
+padding:5px;
+}
+
+.selected{
+background-color:black;
+}
